@@ -1,3 +1,6 @@
+fork from https://github.com/zyhfjx2019/drr
+revise to python2 version
+
 # drr
 code for the paper "Personalized Re-ranking for E-commerce Recommendation Systems"
 
